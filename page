@@ -1,0 +1,122 @@
+<html>
+<head>
+<title>
+</title>
+<style>
+#text{background-color:yellow;
+color:blue;
+text-align:center;
+}
+#topics{position:relative;
+left:1000px;
+text-decoration:none;
+}
+#img1{position:relative;
+left:900px;
+top:2px;
+}
+#content1{position:absolute;
+left:0px;
+top:200px;
+font-size:20px;
+}
+#img2{margin:10px;
+float:left;
+}
+</style>
+</head>
+<body>
+<div id="text">
+<h1>Flipkart</h1></div>
+<div id="topics">
+<a href="#home">Home</a>
+<a href="#gall">Gallery</a>
+<a href="#con">Contact Info</a>
+</div>
+<h1 id="home">
+<span style="color:green;text-align:center;">Online Shopping</span>
+</h1>
+<div id="img1">
+<img src="https://e7.pngegg.com/pngimages/658/594/png-clipart-mall-of-america-shopping-mall-girl-dress-up-style-game-shopping-centre-desktop-clothes-button-service-retail.png" style="width:400px;height:400px;"></div>
+<div id="content1">
+<p>Enjoy this festive season with the Big Diwali Sale 2024 and celebrate unlimited shopping.<br>
+Starting October 21, the sale comes with great discounts and offers on various items.<br>
+You can up your fashion game with trendy and stylish fashion-wear items available at up to 90% off.<br>
+Pick your favourite brands and their new arrivals on jeans, T-shirts, shoes, watches, and more.<br>
+In addition, this Diwali sale offers up to 80% off on Television, home and kitchen appliances,<br> smart gadgets,
+furniture, and mattresses.Enjoy this festive season with the Big Diwali Sale 2024 and celebrate<br> unlimited shopping.
+Starting October 21, the sale comes with great discounts and offers on various items.<br>
+You can up your fashion game with trendy and stylish fashion-wear items available at up to 90% off.<br>
+Pick your favourite brands and their new arrivals on jeans, T-shirts, shoes, watches, and more.<br>
+In addition, this Diwali sale offers up to 80% off on Television, home and kitchen appliances,<br> smart gadgets,
+furniture, and mattresses.</p>
+</div><br><br><br><center>
+<button style="color:white;background-color:blue;font-size:20px;">Click Here</button><br><br></center>
+<br> <br> <br>
+<div id="gall">
+<div id="img2">
+<img src="https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/u/h/x/8-9-years-0044-ak-kashmir-garments-original-imaghy3dwmh8axzf.jpeg?q=70" width="170px" height="170px">
+<table style="color:white;background-color:green;border:3px solid green"><tr><td>5.0</td></tr></table>
+<strike> Rs 5000</strike>Rs.2000<br>
+<span style="color:blue;background-color:yellow;">Buy now</span>
+</div>
+<div id="img2">
+<img src="https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/6/e/e/3-4-years-sku-556-color-white-stumble-fashion-original-imah4vgemqua3h6g.jpeg?q=70" width="170px" height="170px">
+<table style="color:white;background-color:green;border:3px solid green"><tr><td>5.0</td></tr></table>
+<strike> Rs 5000</strike>Rs.2000<br>
+<span style="color:blue;background-color:yellow;">Buy now</span>
+</div>
+<div id="img2">
+<img src="https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/d/k/b/15-16-years-child-dress-2193-mint-01-neysa-original-imahfgq8v7mhnphm.jpeg?q=70" width="170px" height="170px">
+<table style="color:white;background-color:green;border:3px solid green"><tr><td>5.0</td></tr></table>
+<strike> Rs 5000</strike>Rs.2000<br>
+<span style="color:blue;background-color:yellow;">Buy now</span>
+</div>
+<div id="img2">
+<img src="https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/t/c/y/9-12-months-761-navy-neysa-original-imahyjzyucqmfc2p.jpeg?q=70" width="170px" height="170px">
+<table style="color:white;background-color:green;border:3px solid green"><tr><td>5.0</td></tr></table>
+<strike> Rs 5000</strike>Rs.2000<br>
+<span style="color:blue;background-color:yellow;">Buy now</span>
+</div>
+<div id="img2">
+<img src="https://rukminim2.flixcart.com/image/612/612/kqmo8sw0/kids-dress/x/g/x/11-12-years-new-1451-child-04-neysa-original-imag4hnfu5anmqbv.jpeg?q=70" width="170px" height="170px">
+<table style="color:white;background-color:green;border:3px solid green"><tr><td>5.0</td></tr></table>
+<strike> Rs 5000</strike>Rs.2000<br>
+<span style="color:blue;background-color:yellow;">Buy now</span>
+</div>
+<div id="img2">
+<img src="https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/o/j/b/3-4-years-sku-558-color-blue-stumble-fashion-original-imah4vgenzfq7vv4.jpeg?q=70" width="170px" height="170px">
+<table style="color:white;background-color:green;border:3px solid green"><tr><td>5.0</td></tr></table>
+<strike> Rs 5000</strike>Rs.2000<br>
+<span style="color:blue;background-color:yellow;">Buy now</span>
+</div>
+<div id="img2">
+<img src="https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/b/6/r/1-2-years-sku-556-color-pink-stumble-fashion-original-imah4vgewnubersy.jpeg?q=70" width="170px" height="170px">
+<table style="color:white;background-color:green;border:3px solid green"><tr><td>5.0</td></tr></table>
+<strike> Rs 5000</strike>Rs.2000<br>
+<span style="color:blue;background-color:yellow;">Buy now</span>
+</div>
+<div id="img2">
+<img src="https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/r/r/d/6-12-months-sku-557-color-white-stumble-fashion-original-imah4vgersnmzhgp.jpeg?q=70" width="170px" height="170px">
+<table style="color:white;background-color:green;border:3px solid green"><tr><td>5.0</td></tr></table>
+<strike> Rs 5000</strike>Rs.2000<br>
+<span style="color:blue;background-color:yellow;">Buy now</span>
+</div>
+<div id="img2">
+<img src="https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/t/8/c/5-6-years-sku-558-color-red-stumble-fashion-original-imah4vgemypwpxbd.jpeg?q=70" width="170px" height="170px">
+<table style="color:white;background-color:green;border:3px solid green"><tr><td>5.0</td></tr></table>
+<strike> Rs 5000</strike>Rs.2000<br>
+<span style="color:blue;background-color:yellow;">Buy now</span>
+</div></div><br><br>
+<h1 id="con"><span style="color:blue;background-color:yellow;"><br>CONTACT INFORMATION</span></h1><address>
+Customer Care Flipkart Email ID: cs@flipkart.com<br>
+Flipkart customer care number toll-free: 04445614700<br>
+Flipkart Health Plus: 9330803080<br>
+Email address: Flipkart Health Plus: care@flipkarthealthplus.com<br>
+Flipkart Internet Private Limited,<br>
+Outer Ring Road, Devarabeesanahalli Village,<br>
+Bengaluru, Karnataka, India,<br>
+Pin: 560103<br>
+</address>
+</body>
+</html>
